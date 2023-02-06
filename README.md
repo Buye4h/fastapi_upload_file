@@ -10,12 +10,10 @@ pip install uvicorn
 pip install shutil
 """
 
-# Run in terminal
-# 127.0.0.1:8000
+# Run in terminal - web 127.0.0.1:8000
 """
 main:app --reload
 """
-
 
 # openapi.json
 """
