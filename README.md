@@ -3,19 +3,19 @@ fastapi_upload_file
 
 
 # ติดตั้ง
-"""
+```
 pip install fastapi
 pip install jinja2
 pip install uvicorn
 pip install shutil
-"""
+```
 
-# Run in terminal - web 127.0.0.1:8000
-"""
+# Run in terminal
+```
 main:app --reload
-"""
+```
 
 # openapi.json
-"""
+```
 http://127.0.0.1:8000/docs
-"""
+```
