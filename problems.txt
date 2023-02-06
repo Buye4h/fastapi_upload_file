@@ -1,0 +1,3 @@
+#videoอื่นๆ ยังไม่สามารถ display videoได้ *display ได้แต่ earth.mp4
+#ไฟล์video ขนาดใหญ๋ยังไม่สามารถอัพขึ้นได้
+#ไม่สามารถ display video แสดงบนเว็บได้
