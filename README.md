@@ -19,3 +19,6 @@ main:app --reload
 ```
 http://127.0.0.1:8000/docs
 ```
+```
+file ที่มีการ upload จะถูกsaveเก็บไว้ที่ folder static/upload
+```
